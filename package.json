@@ -2,6 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MEChostak.github.io/EcommerceWebsite",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@sendgrid/mail": "^8.1.5",
@@ -52,7 +53,6 @@
     "web-vitals": "^2.1.4",
     "web3": "^1.3.3"
   },
-  "homepage": "https://MEChostak.github.io/EcommerceWebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
